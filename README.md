@@ -1,7 +1,9 @@
 Kik API PhoneGap Plugin
 ================================
 
-This plugin will allow you to send content messages from PhoneGap applications on iPhone an
+This plugin will allow you to send content messages from PhoneGap applications on iPhone and android.
+
+This Plugin is covered under the MIT Licence, except for the KikApi.jar, and kikapilib.a the licences for which can be found at: http://kik.com/dev/TOS.php
 
 Getting Started
 ===============
